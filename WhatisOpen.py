@@ -1,2 +1,2 @@
 import pygetwindow
-print(pygetwindow(getAllTitles()))
+print(pygetwindow.getAllTitles())
